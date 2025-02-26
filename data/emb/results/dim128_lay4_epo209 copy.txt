@@ -1,0 +1,6 @@
+Epoch 209 - Max F1 Train: 0.8842105263157894, Max F1 Valid: 0.564
+Best Train Loss: 3.0890792004356626e-06
+Best Validation Loss: 3.0890792004356626e-06
+Best F1 Score: 0.8842105263157894
+Silhouette Score: 0.9620669484138489
+Davies-Bouldin Index: 0.3721462192857351

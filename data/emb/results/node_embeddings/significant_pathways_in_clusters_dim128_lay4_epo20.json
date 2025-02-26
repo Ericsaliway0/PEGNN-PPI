@@ -1,0 +1,1476 @@
+{
+    "2": {
+        "R-HSA-8853334": {
+            "name": "Signaling by FGFR3 fusions in cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "2261",
+                    "gene_name": "fibroblast growth factor receptor 3",
+                    "gene_symbol": "FGFR3"
+                }
+            ],
+            "unique_genes": [
+                "FGFR3"
+            ]
+        },
+        "R-HSA-9687136": {
+            "name": "Aberrant regulation of mitotic exit in cancer due to RB1 defects",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "10393",
+                    "gene_name": "anaphase promoting complex subunit 10",
+                    "gene_symbol": "ANAPC10"
+                },
+                {
+                    "gene_id": "11065",
+                    "gene_name": "ubiquitin conjugating enzyme E2 C",
+                    "gene_symbol": "UBE2C"
+                },
+                {
+                    "gene_id": "119504",
+                    "gene_name": "anaphase promoting complex subunit 16",
+                    "gene_symbol": "ANAPC16"
+                },
+                {
+                    "gene_id": "246184",
+                    "gene_name": "cell division cycle 26",
+                    "gene_symbol": "CDC26"
+                },
+                {
+                    "gene_id": "25906",
+                    "gene_name": "anaphase promoting complex subunit 15",
+                    "gene_symbol": "ANAPC15"
+                },
+                {
+                    "gene_id": "27338",
+                    "gene_name": "ubiquitin conjugating enzyme E2 S",
+                    "gene_symbol": "UBE2S"
+                },
+                {
+                    "gene_id": "29882",
+                    "gene_name": "anaphase promoting complex subunit 2",
+                    "gene_symbol": "ANAPC2"
+                },
+                {
+                    "gene_id": "29945",
+                    "gene_name": "anaphase promoting complex subunit 4",
+                    "gene_symbol": "ANAPC4"
+                },
+                {
+                    "gene_id": "51343",
+                    "gene_name": "fizzy and cell division cycle 20 related 1",
+                    "gene_symbol": "FZR1"
+                },
+                {
+                    "gene_id": "51433",
+                    "gene_name": "anaphase promoting complex subunit 5",
+                    "gene_symbol": "ANAPC5"
+                },
+                {
+                    "gene_id": "51529",
+                    "gene_name": "anaphase promoting complex subunit 11",
+                    "gene_symbol": "ANAPC11"
+                },
+                {
+                    "gene_id": "5925",
+                    "gene_name": "RB transcriptional corepressor 1",
+                    "gene_symbol": "RB1"
+                },
+                {
+                    "gene_id": "64682",
+                    "gene_name": "anaphase promoting complex subunit 1",
+                    "gene_symbol": "ANAPC1"
+                },
+                {
+                    "gene_id": "6502",
+                    "gene_name": "S-phase kinase associated protein 2",
+                    "gene_symbol": "SKP2"
+                },
+                {
+                    "gene_id": "7321",
+                    "gene_name": "ubiquitin conjugating enzyme E2 D1",
+                    "gene_symbol": "UBE2D1"
+                },
+                {
+                    "gene_id": "7324",
+                    "gene_name": "ubiquitin conjugating enzyme E2 E1",
+                    "gene_symbol": "UBE2E1"
+                },
+                {
+                    "gene_id": "8697",
+                    "gene_name": "cell division cycle 23",
+                    "gene_symbol": "CDC23"
+                },
+                {
+                    "gene_id": "8881",
+                    "gene_name": "cell division cycle 16",
+                    "gene_symbol": "CDC16"
+                },
+                {
+                    "gene_id": "996",
+                    "gene_name": "cell division cycle 27",
+                    "gene_symbol": "CDC27"
+                }
+            ],
+            "unique_genes": [
+                "CDC27",
+                "CDC16",
+                "UBE2C",
+                "ANAPC16",
+                "ANAPC5",
+                "ANAPC2",
+                "SKP2",
+                "CDC23",
+                "ANAPC1",
+                "FZR1",
+                "UBE2S",
+                "ANAPC11",
+                "UBE2E1",
+                "ANAPC4",
+                "CDC26",
+                "ANAPC15",
+                "ANAPC10",
+                "UBE2D1",
+                "RB1"
+            ]
+        }
+    },
+    "9": {
+        "R-HSA-2644607": {
+            "name": "Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "4851",
+                    "gene_name": "notch receptor 1",
+                    "gene_symbol": "NOTCH1"
+                },
+                {
+                    "gene_id": "55294",
+                    "gene_name": "F-box and WD repeat domain containing 7",
+                    "gene_symbol": "FBXW7"
+                },
+                {
+                    "gene_id": "6500",
+                    "gene_name": "S-phase kinase associated protein 1",
+                    "gene_symbol": "SKP1"
+                },
+                {
+                    "gene_id": "8454",
+                    "gene_name": "cullin 1",
+                    "gene_symbol": "CUL1"
+                },
+                {
+                    "gene_id": "9978",
+                    "gene_name": "ring-box 1",
+                    "gene_symbol": "RBX1"
+                }
+            ],
+            "unique_genes": [
+                "RBX1",
+                "CUL1",
+                "FBXW7",
+                "SKP1",
+                "NOTCH1"
+            ]
+        },
+        "R-HSA-9723905": {
+            "name": "Loss of function of TP53 in cancer due to loss of tetramerization ability",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "7157",
+                    "gene_name": "tumor protein p53",
+                    "gene_symbol": "TP53"
+                }
+            ],
+            "unique_genes": [
+                "TP53"
+            ]
+        }
+    },
+    "13": {
+        "R-HSA-5619066": {
+            "name": "Defective SLC22A18 causes lung cancer (LNCR) and embryonal rhabdomyosarcoma 1 (RMSE1)",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "5002",
+                    "gene_name": "solute carrier family 22 member 18",
+                    "gene_symbol": "SLC22A18"
+                }
+            ],
+            "unique_genes": [
+                "SLC22A18"
+            ]
+        }
+    },
+    "19": {
+        "R-HSA-9842640": {
+            "name": "Signaling by LTK in cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "5290",
+                    "gene_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
+                    "gene_symbol": "PIK3CA"
+                },
+                {
+                    "gene_id": "5291",
+                    "gene_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",
+                    "gene_symbol": "PIK3CB"
+                },
+                {
+                    "gene_id": "5295",
+                    "gene_name": "phosphoinositide-3-kinase regulatory subunit 1",
+                    "gene_symbol": "PIK3R1"
+                },
+                {
+                    "gene_id": "5296",
+                    "gene_name": "phosphoinositide-3-kinase regulatory subunit 2",
+                    "gene_symbol": "PIK3R2"
+                },
+                {
+                    "gene_id": "5594",
+                    "gene_name": "mitogen-activated protein kinase 1",
+                    "gene_symbol": "MAPK1"
+                },
+                {
+                    "gene_id": "5595",
+                    "gene_name": "mitogen-activated protein kinase 3",
+                    "gene_symbol": "MAPK3"
+                },
+                {
+                    "gene_id": "6249",
+                    "gene_name": "CAP-Gly domain containing linker protein 1",
+                    "gene_symbol": "CLIP1"
+                }
+            ],
+            "unique_genes": [
+                "MAPK1",
+                "CLIP1",
+                "PIK3CB",
+                "MAPK3",
+                "PIK3R2",
+                "PIK3R1",
+                "PIK3CA"
+            ]
+        },
+        "R-HSA-1236382": {
+            "name": "Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "11140",
+                    "gene_name": "cell division cycle 37, HSP90 cochaperone",
+                    "gene_symbol": "CDC37"
+                },
+                {
+                    "gene_id": "1950",
+                    "gene_name": "epidermal growth factor",
+                    "gene_symbol": "EGF"
+                },
+                {
+                    "gene_id": "1956",
+                    "gene_name": "epidermal growth factor receptor",
+                    "gene_symbol": "EGFR"
+                },
+                {
+                    "gene_id": "2549",
+                    "gene_name": "GRB2 associated binding protein 1",
+                    "gene_symbol": "GAB1"
+                },
+                {
+                    "gene_id": "2885",
+                    "gene_name": "growth factor receptor bound protein 2",
+                    "gene_symbol": "GRB2"
+                },
+                {
+                    "gene_id": "3265",
+                    "gene_name": "HRas proto-oncogene, GTPase",
+                    "gene_symbol": "HRAS"
+                },
+                {
+                    "gene_id": "3320",
+                    "gene_name": "heat shock protein 90 alpha family class A member 1",
+                    "gene_symbol": "HSP90AA1"
+                },
+                {
+                    "gene_id": "3845",
+                    "gene_name": "KRAS proto-oncogene, GTPase",
+                    "gene_symbol": "KRAS"
+                },
+                {
+                    "gene_id": "4893",
+                    "gene_name": "NRAS proto-oncogene, GTPase",
+                    "gene_symbol": "NRAS"
+                },
+                {
+                    "gene_id": "5290",
+                    "gene_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
+                    "gene_symbol": "PIK3CA"
+                },
+                {
+                    "gene_id": "5295",
+                    "gene_name": "phosphoinositide-3-kinase regulatory subunit 1",
+                    "gene_symbol": "PIK3R1"
+                },
+                {
+                    "gene_id": "5335",
+                    "gene_name": "phospholipase C gamma 1",
+                    "gene_symbol": "PLCG1"
+                },
+                {
+                    "gene_id": "6233",
+                    "gene_name": "ribosomal protein S27a",
+                    "gene_symbol": "RPS27A"
+                },
+                {
+                    "gene_id": "6464",
+                    "gene_name": "SHC adaptor protein 1",
+                    "gene_symbol": "SHC1"
+                },
+                {
+                    "gene_id": "6654",
+                    "gene_name": "SOS Ras/Rac guanine nucleotide exchange factor 1",
+                    "gene_symbol": "SOS\u00a01"
+                },
+                {
+                    "gene_id": "7311",
+                    "gene_name": "ubiquitin A-52 residue ribosomal protein fusion product 1",
+                    "gene_symbol": "UBA52"
+                },
+                {
+                    "gene_id": "7314",
+                    "gene_name": "ubiquitin B",
+                    "gene_symbol": "UBB"
+                },
+                {
+                    "gene_id": "7316",
+                    "gene_name": "ubiquitin C",
+                    "gene_symbol": "UBC"
+                },
+                {
+                    "gene_id": "867",
+                    "gene_name": "Cbl proto-oncogene",
+                    "gene_symbol": "CBL"
+                }
+            ],
+            "unique_genes": [
+                "UBA52",
+                "GRB2",
+                "PIK3CA",
+                "UBC",
+                "CDC37",
+                "RPS27A",
+                "EGFR",
+                "GAB1",
+                "UBB",
+                "PLCG1",
+                "PIK3R1",
+                "KRAS",
+                "HRAS",
+                "NRAS",
+                "EGF",
+                "HSP90AA1",
+                "CBL",
+                "SOS\u00a01",
+                "SHC1"
+            ]
+        },
+        "R-HSA-2219530": {
+            "name": "Constitutive Signaling by Aberrant PI3K in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "10718",
+                    "gene_name": "neuregulin 3",
+                    "gene_symbol": "NRG3"
+                },
+                {
+                    "gene_id": "10818",
+                    "gene_name": "fibroblast growth factor receptor substrate 2",
+                    "gene_symbol": "FRS2"
+                },
+                {
+                    "gene_id": "118788",
+                    "gene_name": "phosphoinositide-3-kinase adaptor protein 1",
+                    "gene_symbol": "PIK3AP1"
+                },
+                {
+                    "gene_id": "145957",
+                    "gene_name": "neuregulin 4",
+                    "gene_symbol": "NRG4"
+                },
+                {
+                    "gene_id": "152831",
+                    "gene_name": "klotho beta",
+                    "gene_symbol": "KLB"
+                },
+                {
+                    "gene_id": "1839",
+                    "gene_name": "heparin binding EGF like growth factor",
+                    "gene_symbol": "HBEGF"
+                },
+                {
+                    "gene_id": "1950",
+                    "gene_name": "epidermal growth factor",
+                    "gene_symbol": "EGF"
+                },
+                {
+                    "gene_id": "1956",
+                    "gene_name": "epidermal growth factor receptor",
+                    "gene_symbol": "EGFR"
+                },
+                {
+                    "gene_id": "2064",
+                    "gene_name": "erb-b2 receptor tyrosine kinase 2",
+                    "gene_symbol": "ERBB2"
+                },
+                {
+                    "gene_id": "2065",
+                    "gene_name": "erb-b2 receptor tyrosine kinase 3",
+                    "gene_symbol": "ERBB3"
+                },
+                {
+                    "gene_id": "2066",
+                    "gene_name": "erb-b2 receptor tyrosine kinase 4",
+                    "gene_symbol": "ERBB4"
+                },
+                {
+                    "gene_id": "2069",
+                    "gene_name": "epiregulin",
+                    "gene_symbol": "EREG"
+                },
+                {
+                    "gene_id": "2099",
+                    "gene_name": "estrogen receptor 1",
+                    "gene_symbol": "ESR1"
+                },
+                {
+                    "gene_id": "2100",
+                    "gene_name": "estrogen receptor 2",
+                    "gene_symbol": "ESR2"
+                },
+                {
+                    "gene_id": "2246",
+                    "gene_name": "fibroblast growth factor 1",
+                    "gene_symbol": "FGF1"
+                },
+                {
+                    "gene_id": "2247",
+                    "gene_name": "fibroblast growth factor 2",
+                    "gene_symbol": "FGF2"
+                },
+                {
+                    "gene_id": "2248",
+                    "gene_name": "fibroblast growth factor 3",
+                    "gene_symbol": "FGF3"
+                },
+                {
+                    "gene_id": "2249",
+                    "gene_name": "fibroblast growth factor 4",
+                    "gene_symbol": "FGF4"
+                },
+                {
+                    "gene_id": "2250",
+                    "gene_name": "fibroblast growth factor 5",
+                    "gene_symbol": "FGF5"
+                },
+                {
+                    "gene_id": "2251",
+                    "gene_name": "fibroblast growth factor 6",
+                    "gene_symbol": "FGF6"
+                },
+                {
+                    "gene_id": "2252",
+                    "gene_name": "fibroblast growth factor 7",
+                    "gene_symbol": "FGF7"
+                },
+                {
+                    "gene_id": "2253",
+                    "gene_name": "fibroblast growth factor 8",
+                    "gene_symbol": "FGF8"
+                },
+                {
+                    "gene_id": "2254",
+                    "gene_name": "fibroblast growth factor 9",
+                    "gene_symbol": "FGF9"
+                },
+                {
+                    "gene_id": "2255",
+                    "gene_name": "fibroblast growth factor 10",
+                    "gene_symbol": "FGF10"
+                },
+                {
+                    "gene_id": "2260",
+                    "gene_name": "fibroblast growth factor receptor 1",
+                    "gene_symbol": "FGFR1"
+                },
+                {
+                    "gene_id": "2261",
+                    "gene_name": "fibroblast growth factor receptor 3",
+                    "gene_symbol": "FGFR3"
+                },
+                {
+                    "gene_id": "2263",
+                    "gene_name": "fibroblast growth factor receptor 2",
+                    "gene_symbol": "FGFR2"
+                },
+                {
+                    "gene_id": "2264",
+                    "gene_name": "fibroblast growth factor receptor 4",
+                    "gene_symbol": "FGFR4"
+                },
+                {
+                    "gene_id": "2322",
+                    "gene_name": "fms related receptor tyrosine kinase 3",
+                    "gene_symbol": "FLT3"
+                },
+                {
+                    "gene_id": "2323",
+                    "gene_name": "fms related receptor tyrosine kinase 3 ligand",
+                    "gene_symbol": "FLT3LG"
+                },
+                {
+                    "gene_id": "2534",
+                    "gene_name": "FYN proto-oncogene, Src family tyrosine kinase",
+                    "gene_symbol": "FYN"
+                },
+                {
+                    "gene_id": "2549",
+                    "gene_name": "GRB2 associated binding protein 1",
+                    "gene_symbol": "GAB1"
+                },
+                {
+                    "gene_id": "255324",
+                    "gene_name": "epithelial mitogen",
+                    "gene_symbol": "EPGN"
+                },
+                {
+                    "gene_id": "26281",
+                    "gene_name": "fibroblast growth factor 20",
+                    "gene_symbol": "FGF20"
+                },
+                {
+                    "gene_id": "27006",
+                    "gene_name": "fibroblast growth factor 22",
+                    "gene_symbol": "FGF22"
+                },
+                {
+                    "gene_id": "2885",
+                    "gene_name": "growth factor receptor bound protein 2",
+                    "gene_symbol": "GRB2"
+                },
+                {
+                    "gene_id": "29851",
+                    "gene_name": "inducible T cell costimulator",
+                    "gene_symbol": "ICOS"
+                },
+                {
+                    "gene_id": "3082",
+                    "gene_name": "hepatocyte growth factor",
+                    "gene_symbol": "HGF"
+                },
+                {
+                    "gene_id": "3084",
+                    "gene_name": "neuregulin 1",
+                    "gene_symbol": "NRG1"
+                },
+                {
+                    "gene_id": "3667",
+                    "gene_name": "insulin receptor substrate 1",
+                    "gene_symbol": "IRS1"
+                },
+                {
+                    "gene_id": "374",
+                    "gene_name": "amphiregulin",
+                    "gene_symbol": "AREG"
+                },
+                {
+                    "gene_id": "3815",
+                    "gene_name": "KIT proto-oncogene, receptor tyrosine kinase",
+                    "gene_symbol": "KIT"
+                },
+                {
+                    "gene_id": "391",
+                    "gene_name": "ras homolog family member G",
+                    "gene_symbol": "RHOG"
+                },
+                {
+                    "gene_id": "3932",
+                    "gene_name": "LCK proto-oncogene, Src family tyrosine kinase",
+                    "gene_symbol": "LCK"
+                },
+                {
+                    "gene_id": "4233",
+                    "gene_name": "MET proto-oncogene, receptor tyrosine kinase",
+                    "gene_symbol": "MET"
+                },
+                {
+                    "gene_id": "4254",
+                    "gene_name": "KIT ligand",
+                    "gene_symbol": "KITLG"
+                },
+                {
+                    "gene_id": "50852",
+                    "gene_name": "T cell receptor associated transmembrane adaptor 1",
+                    "gene_symbol": "TRAT1"
+                },
+                {
+                    "gene_id": "5154",
+                    "gene_name": "platelet derived growth factor subunit A",
+                    "gene_symbol": "PDGFA"
+                },
+                {
+                    "gene_id": "5155",
+                    "gene_name": "platelet derived growth factor subunit B",
+                    "gene_symbol": "PDGFB"
+                },
+                {
+                    "gene_id": "5156",
+                    "gene_name": "platelet derived growth factor receptor alpha",
+                    "gene_symbol": "PDGFRA"
+                },
+                {
+                    "gene_id": "5159",
+                    "gene_name": "platelet derived growth factor receptor beta",
+                    "gene_symbol": "PDGFRB"
+                },
+                {
+                    "gene_id": "5290",
+                    "gene_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
+                    "gene_symbol": "PIK3CA"
+                },
+                {
+                    "gene_id": "5291",
+                    "gene_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",
+                    "gene_symbol": "PIK3CB"
+                },
+                {
+                    "gene_id": "5293",
+                    "gene_name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",
+                    "gene_symbol": "PIK3CD"
+                },
+                {
+                    "gene_id": "5295",
+                    "gene_name": "phosphoinositide-3-kinase regulatory subunit 1",
+                    "gene_symbol": "PIK3R1"
+                },
+                {
+                    "gene_id": "5296",
+                    "gene_name": "phosphoinositide-3-kinase regulatory subunit 2",
+                    "gene_symbol": "PIK3R2"
+                },
+                {
+                    "gene_id": "5781",
+                    "gene_name": "protein tyrosine phosphatase non-receptor type 11",
+                    "gene_symbol": "PTPN11"
+                },
+                {
+                    "gene_id": "5879",
+                    "gene_name": "Rac family small GTPase 1",
+                    "gene_symbol": "RAC1"
+                },
+                {
+                    "gene_id": "5880",
+                    "gene_name": "Rac family small GTPase 2",
+                    "gene_symbol": "RAC2"
+                },
+                {
+                    "gene_id": "6714",
+                    "gene_name": "SRC proto-oncogene, non-receptor tyrosine kinase",
+                    "gene_symbol": "SRC"
+                },
+                {
+                    "gene_id": "6801",
+                    "gene_name": "striatin",
+                    "gene_symbol": "STRN"
+                },
+                {
+                    "gene_id": "685",
+                    "gene_name": "betacellulin",
+                    "gene_symbol": "BTC"
+                },
+                {
+                    "gene_id": "7039",
+                    "gene_name": "transforming growth factor alpha",
+                    "gene_symbol": "TGFA"
+                },
+                {
+                    "gene_id": "7409",
+                    "gene_name": "vav guanine nucleotide exchange factor 1",
+                    "gene_symbol": "VAV1"
+                },
+                {
+                    "gene_id": "8074",
+                    "gene_name": "fibroblast growth factor 23",
+                    "gene_symbol": "FGF23"
+                },
+                {
+                    "gene_id": "8503",
+                    "gene_name": "phosphoinositide-3-kinase regulatory subunit 3",
+                    "gene_symbol": "PIK3R3"
+                },
+                {
+                    "gene_id": "8660",
+                    "gene_name": "insulin receptor substrate 2",
+                    "gene_symbol": "IRS2"
+                },
+                {
+                    "gene_id": "8817",
+                    "gene_name": "fibroblast growth factor 18",
+                    "gene_symbol": "FGF18"
+                },
+                {
+                    "gene_id": "8822",
+                    "gene_name": "fibroblast growth factor 17",
+                    "gene_symbol": "FGF17"
+                },
+                {
+                    "gene_id": "8823",
+                    "gene_name": "fibroblast growth factor 16",
+                    "gene_symbol": "FGF16"
+                },
+                {
+                    "gene_id": "930",
+                    "gene_name": "CD19 molecule",
+                    "gene_symbol": "CD19"
+                },
+                {
+                    "gene_id": "9365",
+                    "gene_name": "klotho",
+                    "gene_symbol": "KL"
+                },
+                {
+                    "gene_id": "940",
+                    "gene_name": "CD28 molecule",
+                    "gene_symbol": "CD28"
+                },
+                {
+                    "gene_id": "941",
+                    "gene_name": "CD80 molecule",
+                    "gene_symbol": "CD80"
+                },
+                {
+                    "gene_id": "942",
+                    "gene_name": "CD86 molecule",
+                    "gene_symbol": "CD86"
+                },
+                {
+                    "gene_id": "9542",
+                    "gene_name": "neuregulin 2",
+                    "gene_symbol": "NRG2"
+                },
+                {
+                    "gene_id": "9846",
+                    "gene_name": "GRB2 associated binding protein 2",
+                    "gene_symbol": "GAB2"
+                },
+                {
+                    "gene_id": "9965",
+                    "gene_name": "fibroblast growth factor 19",
+                    "gene_symbol": "FGF19"
+                }
+            ],
+            "unique_genes": [
+                "FGF18",
+                "RAC1",
+                "FGF9",
+                "GAB2",
+                "ERBB4",
+                "AREG",
+                "FGF20",
+                "FGF10",
+                "EGFR",
+                "GAB1",
+                "ESR1",
+                "FGF1",
+                "FGFR4",
+                "ESR2",
+                "PIK3R2",
+                "FYN",
+                "PDGFRA",
+                "FGF16",
+                "FGFR1",
+                "HBEGF",
+                "GRB2",
+                "LCK",
+                "KITLG",
+                "PIK3CA",
+                "IRS2",
+                "FGF8",
+                "PIK3CB",
+                "CD28",
+                "PDGFA",
+                "FGF6",
+                "IRS1",
+                "RHOG",
+                "FGF7",
+                "FLT3",
+                "NRG3",
+                "PIK3R3",
+                "PIK3CD",
+                "NRG4",
+                "KL",
+                "FGF23",
+                "FGF4",
+                "EPGN",
+                "NRG2",
+                "KIT",
+                "MET",
+                "CD86",
+                "EREG",
+                "CD80",
+                "TRAT1",
+                "FLT3LG",
+                "RAC2",
+                "PTPN11",
+                "HGF",
+                "ICOS",
+                "FGF5",
+                "EGF",
+                "ERBB3",
+                "FGF17",
+                "FGF2",
+                "FGF3",
+                "FGF22",
+                "PIK3AP1",
+                "SRC",
+                "STRN",
+                "PDGFRB",
+                "VAV1",
+                "NRG1",
+                "KLB",
+                "FRS2",
+                "CD19",
+                "PIK3R1",
+                "FGF19",
+                "TGFA",
+                "ERBB2",
+                "FGFR2",
+                "FGFR3",
+                "BTC",
+                "PDGFB"
+            ]
+        },
+        "R-HSA-5674400": {
+            "name": "Constitutive Signaling by AKT1 E17K in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "10000",
+                    "gene_name": "AKT serine/threonine kinase 3",
+                    "gene_symbol": "AKT3"
+                },
+                {
+                    "gene_id": "1026",
+                    "gene_name": "cyclin dependent kinase inhibitor 1A",
+                    "gene_symbol": "CDKN1A"
+                },
+                {
+                    "gene_id": "1027",
+                    "gene_name": "cyclin dependent kinase inhibitor 1B",
+                    "gene_symbol": "CDKN1B"
+                },
+                {
+                    "gene_id": "1147",
+                    "gene_name": "component of inhibitor of nuclear factor kappa B kinase complex",
+                    "gene_symbol": "CHUK"
+                },
+                {
+                    "gene_id": "1385",
+                    "gene_name": "cAMP responsive element binding protein 1",
+                    "gene_symbol": "CREB1"
+                },
+                {
+                    "gene_id": "207",
+                    "gene_name": "AKT serine/threonine kinase 1",
+                    "gene_symbol": "AKT1"
+                },
+                {
+                    "gene_id": "208",
+                    "gene_name": "AKT serine/threonine kinase 2",
+                    "gene_symbol": "AKT2"
+                },
+                {
+                    "gene_id": "2308",
+                    "gene_name": "forkhead box O1",
+                    "gene_symbol": "FOXO1"
+                },
+                {
+                    "gene_id": "2309",
+                    "gene_name": "forkhead box O3",
+                    "gene_symbol": "FOXO3"
+                },
+                {
+                    "gene_id": "2475",
+                    "gene_name": "mechanistic target of rapamycin kinase",
+                    "gene_symbol": "MTOR"
+                },
+                {
+                    "gene_id": "253260",
+                    "gene_name": "RPTOR independent companion of MTOR complex 2",
+                    "gene_symbol": "RICTOR"
+                },
+                {
+                    "gene_id": "2931",
+                    "gene_name": "glycogen synthase kinase 3 alpha",
+                    "gene_symbol": "GSK3A"
+                },
+                {
+                    "gene_id": "2932",
+                    "gene_name": "glycogen synthase kinase 3 beta",
+                    "gene_symbol": "GSK3B"
+                },
+                {
+                    "gene_id": "3164",
+                    "gene_name": "nuclear receptor subfamily 4 group A member 1",
+                    "gene_symbol": "NR4A1"
+                },
+                {
+                    "gene_id": "4193",
+                    "gene_name": "MDM2 proto-oncogene",
+                    "gene_symbol": "MDM2"
+                },
+                {
+                    "gene_id": "4303",
+                    "gene_name": "forkhead box O4",
+                    "gene_symbol": "FOXO4"
+                },
+                {
+                    "gene_id": "5170",
+                    "gene_name": "3-phosphoinositide dependent protein kinase 1",
+                    "gene_symbol": "PDPK1"
+                },
+                {
+                    "gene_id": "55615",
+                    "gene_name": "proline rich 5",
+                    "gene_symbol": "PRR5"
+                },
+                {
+                    "gene_id": "572",
+                    "gene_name": "BCL2 associated agonist of cell death",
+                    "gene_symbol": "BAD"
+                },
+                {
+                    "gene_id": "6199",
+                    "gene_name": "ribosomal protein S6 kinase B2",
+                    "gene_symbol": "RPS6KB2"
+                },
+                {
+                    "gene_id": "64223",
+                    "gene_name": "MTOR associated protein, LST8 homolog",
+                    "gene_symbol": "MLST8"
+                },
+                {
+                    "gene_id": "7249",
+                    "gene_name": "TSC complex subunit 2",
+                    "gene_symbol": "TSC2"
+                },
+                {
+                    "gene_id": "79109",
+                    "gene_name": "MAPK associated protein 1",
+                    "gene_symbol": "MAPKAP1"
+                },
+                {
+                    "gene_id": "842",
+                    "gene_name": "caspase 9",
+                    "gene_symbol": "CASP9"
+                },
+                {
+                    "gene_id": "84335",
+                    "gene_name": "AKT1 substrate 1",
+                    "gene_symbol": "AKT1S1"
+                }
+            ],
+            "unique_genes": [
+                "TSC2",
+                "AKT1",
+                "AKT3",
+                "PRR5",
+                "GSK3A",
+                "AKT1S1",
+                "FOXO4",
+                "FOXO3",
+                "MTOR",
+                "RICTOR",
+                "BAD",
+                "MAPKAP1",
+                "CHUK",
+                "CDKN1B",
+                "RPS6KB2",
+                "MDM2",
+                "CASP9",
+                "AKT2",
+                "PDPK1",
+                "CREB1",
+                "GSK3B",
+                "NR4A1",
+                "FOXO1",
+                "MLST8",
+                "CDKN1A"
+            ]
+        },
+        "R-HSA-5674404": {
+            "name": "PTEN Loss of Function in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "5728",
+                    "gene_name": "phosphatase and tensin homolog",
+                    "gene_symbol": "PTEN"
+                }
+            ],
+            "unique_genes": [
+                "PTEN"
+            ]
+        }
+    },
+    "4": {
+        "R-HSA-3311021": {
+            "name": "SMAD4 MH2 Domain Mutants in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "4087",
+                    "gene_name": "SMAD family member 2",
+                    "gene_symbol": "SMAD2"
+                },
+                {
+                    "gene_id": "4088",
+                    "gene_name": "SMAD family member 3",
+                    "gene_symbol": "SMAD3"
+                },
+                {
+                    "gene_id": "4089",
+                    "gene_name": "SMAD family member 4",
+                    "gene_symbol": "SMAD4"
+                }
+            ],
+            "unique_genes": [
+                "SMAD2",
+                "SMAD3",
+                "SMAD4"
+            ]
+        },
+        "R-HSA-3304356": {
+            "name": "SMAD2/3 Phosphorylation Motif Mutants in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "4087",
+                    "gene_name": "SMAD family member 2",
+                    "gene_symbol": "SMAD2"
+                },
+                {
+                    "gene_id": "4088",
+                    "gene_name": "SMAD family member 3",
+                    "gene_symbol": "SMAD3"
+                },
+                {
+                    "gene_id": "7040",
+                    "gene_name": "transforming growth factor beta 1",
+                    "gene_symbol": "TGFB1"
+                },
+                {
+                    "gene_id": "7046",
+                    "gene_name": "transforming growth factor beta receptor 1",
+                    "gene_symbol": "TGFBR1"
+                },
+                {
+                    "gene_id": "7048",
+                    "gene_name": "transforming growth factor beta receptor 2",
+                    "gene_symbol": "TGFBR2"
+                },
+                {
+                    "gene_id": "9372",
+                    "gene_name": "zinc finger FYVE-type containing 9",
+                    "gene_symbol": "ZFYVE9"
+                }
+            ],
+            "unique_genes": [
+                "TGFBR2",
+                "SMAD2",
+                "ZFYVE9",
+                "SMAD3",
+                "TGFB1",
+                "TGFBR1"
+            ]
+        },
+        "R-HSA-3315487": {
+            "name": "SMAD2/3 MH2 Domain Mutants in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "4087",
+                    "gene_name": "SMAD family member 2",
+                    "gene_symbol": "SMAD2"
+                },
+                {
+                    "gene_id": "4088",
+                    "gene_name": "SMAD family member 3",
+                    "gene_symbol": "SMAD3"
+                },
+                {
+                    "gene_id": "4089",
+                    "gene_name": "SMAD family member 4",
+                    "gene_symbol": "SMAD4"
+                }
+            ],
+            "unique_genes": [
+                "SMAD2",
+                "SMAD3",
+                "SMAD4"
+            ]
+        },
+        "R-HSA-3642279": {
+            "name": "TGFBR2 MSI Frameshift Mutants in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "7040",
+                    "gene_name": "transforming growth factor beta 1",
+                    "gene_symbol": "TGFB1"
+                },
+                {
+                    "gene_id": "7048",
+                    "gene_name": "transforming growth factor beta receptor 2",
+                    "gene_symbol": "TGFBR2"
+                }
+            ],
+            "unique_genes": [
+                "TGFBR2",
+                "TGFB1"
+            ]
+        },
+        "R-HSA-3645790": {
+            "name": "TGFBR2 Kinase Domain Mutants in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "7040",
+                    "gene_name": "transforming growth factor beta 1",
+                    "gene_symbol": "TGFB1"
+                },
+                {
+                    "gene_id": "7046",
+                    "gene_name": "transforming growth factor beta receptor 1",
+                    "gene_symbol": "TGFBR1"
+                },
+                {
+                    "gene_id": "7048",
+                    "gene_name": "transforming growth factor beta receptor 2",
+                    "gene_symbol": "TGFBR2"
+                }
+            ],
+            "unique_genes": [
+                "TGFBR2",
+                "TGFB1",
+                "TGFBR1"
+            ]
+        },
+        "R-HSA-3656535": {
+            "name": "TGFBR1 LBD Mutants in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "2280",
+                    "gene_name": "FKBP prolyl isomerase 1A",
+                    "gene_symbol": "FKBP1A"
+                },
+                {
+                    "gene_id": "7040",
+                    "gene_name": "transforming growth factor beta 1",
+                    "gene_symbol": "TGFB1"
+                },
+                {
+                    "gene_id": "7046",
+                    "gene_name": "transforming growth factor beta receptor 1",
+                    "gene_symbol": "TGFBR1"
+                },
+                {
+                    "gene_id": "7048",
+                    "gene_name": "transforming growth factor beta receptor 2",
+                    "gene_symbol": "TGFBR2"
+                }
+            ],
+            "unique_genes": [
+                "TGFBR2",
+                "TGFB1",
+                "FKBP1A",
+                "TGFBR1"
+            ]
+        },
+        "R-HSA-3656532": {
+            "name": "TGFBR1 KD Mutants in Cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "4087",
+                    "gene_name": "SMAD family member 2",
+                    "gene_symbol": "SMAD2"
+                },
+                {
+                    "gene_id": "4088",
+                    "gene_name": "SMAD family member 3",
+                    "gene_symbol": "SMAD3"
+                },
+                {
+                    "gene_id": "7040",
+                    "gene_name": "transforming growth factor beta 1",
+                    "gene_symbol": "TGFB1"
+                },
+                {
+                    "gene_id": "7046",
+                    "gene_name": "transforming growth factor beta receptor 1",
+                    "gene_symbol": "TGFBR1"
+                },
+                {
+                    "gene_id": "7048",
+                    "gene_name": "transforming growth factor beta receptor 2",
+                    "gene_symbol": "TGFBR2"
+                },
+                {
+                    "gene_id": "9372",
+                    "gene_name": "zinc finger FYVE-type containing 9",
+                    "gene_symbol": "ZFYVE9"
+                }
+            ],
+            "unique_genes": [
+                "TGFBR2",
+                "SMAD2",
+                "ZFYVE9",
+                "SMAD3",
+                "TGFB1",
+                "TGFBR1"
+            ]
+        },
+        "R-HSA-9725371": {
+            "name": "Nuclear events stimulated by ALK signaling in cancer",
+            "weight": 1.0,
+            "significance": "not-found",
+            "connected_genes": [
+                {
+                    "gene_id": "1051",
+                    "gene_name": "CCAAT enhancer binding protein beta",
+                    "gene_symbol": "CEBPB"
+                },
+                {
+                    "gene_id": "1786",
+                    "gene_name": "DNA methyltransferase 1",
+                    "gene_symbol": "DNMT1"
+                },
+                {
+                    "gene_id": "192669",
+                    "gene_name": "argonaute RISC catalytic component 3",
+                    "gene_symbol": "AGO3"
+                },
+                {
+                    "gene_id": "192670",
+                    "gene_name": "argonaute RISC component 4",
+                    "gene_symbol": "AGO4"
+                },
+                {
+                    "gene_id": "2305",
+                    "gene_name": "forkhead box M1",
+                    "gene_symbol": "FOXM1"
+                },
+                {
+                    "gene_id": "26523",
+                    "gene_name": "argonaute RISC component 1",
+                    "gene_symbol": "AGO1"
+                },
+                {
+                    "gene_id": "27161",
+                    "gene_name": "argonaute RISC catalytic component 2",
+                    "gene_symbol": "AGO2"
+                },
+                {
+                    "gene_id": "29851",
+                    "gene_name": "inducible T cell costimulator",
+                    "gene_symbol": "ICOS"
+                },
+                {
+                    "gene_id": "3002",
+                    "gene_name": "granzyme B",
+                    "gene_symbol": "GZMB"
+                },
+                {
+                    "gene_id": "3065",
+                    "gene_name": "histone deacetylase 1",
+                    "gene_symbol": "HDAC1"
+                },
+                {
+                    "gene_id": "3587",
+                    "gene_name": "interleukin 10 receptor subunit alpha",
+                    "gene_symbol": "IL10RA"
+                },
+                {
+                    "gene_id": "3662",
+                    "gene_name": "interferon regulatory factor 4",
+                    "gene_symbol": "IRF4"
+                },
+                {
+                    "gene_id": "3726",
+                    "gene_name": "JunB proto-oncogene, AP-1 transcription factor subunit",
+                    "gene_symbol": "JUNB"
+                },
+                {
+                    "gene_id": "4204",
+                    "gene_name": "methyl-CpG binding protein 2",
+                    "gene_symbol": "MECP2"
+                },
+                {
+                    "gene_id": "4343",
+                    "gene_name": "Mov10 RNA helicase",
+                    "gene_symbol": "MOV10"
+                },
+                {
+                    "gene_id": "4869",
+                    "gene_name": "nucleophosmin 1",
+                    "gene_symbol": "NPM1"
+                },
+                {
+                    "gene_id": "51530",
+                    "gene_name": "zinc finger C3HC-type containing 1",
+                    "gene_symbol": "ZC3HC1"
+                },
+                {
+                    "gene_id": "5551",
+                    "gene_name": "perforin 1",
+                    "gene_symbol": "PRF1"
+                },
+                {
+                    "gene_id": "5594",
+                    "gene_name": "mitogen-activated protein kinase 1",
+                    "gene_symbol": "MAPK1"
+                },
+                {
+                    "gene_id": "5595",
+                    "gene_name": "mitogen-activated protein kinase 3",
+                    "gene_symbol": "MAPK3"
+                },
+                {
+                    "gene_id": "57690",
+                    "gene_name": "trinucleotide repeat containing adaptor 6C",
+                    "gene_symbol": "TNRC6C"
+                },
+                {
+                    "gene_id": "5777",
+                    "gene_name": "protein tyrosine phosphatase non-receptor type 6",
+                    "gene_symbol": "PTPN6"
+                },
+                {
+                    "gene_id": "5925",
+                    "gene_name": "RB transcriptional corepressor 1",
+                    "gene_symbol": "RB1"
+                },
+                {
+                    "gene_id": "597",
+                    "gene_name": "BCL2 related protein A1",
+                    "gene_symbol": "BCL2A1"
+                },
+                {
+                    "gene_id": "6194",
+                    "gene_name": "ribosomal protein S6",
+                    "gene_symbol": "RPS6"
+                },
+                {
+                    "gene_id": "6500",
+                    "gene_name": "S-phase kinase associated protein 1",
+                    "gene_symbol": "SKP1"
+                },
+                {
+                    "gene_id": "6774",
+                    "gene_name": "signal transducer and activator of transcription 3",
+                    "gene_symbol": "STAT3"
+                },
+                {
+                    "gene_id": "6776",
+                    "gene_name": "signal transducer and activator of transcription 5A",
+                    "gene_symbol": "STAT5A"
+                },
+                {
+                    "gene_id": "7291",
+                    "gene_name": "twist family bHLH transcription factor 1",
+                    "gene_symbol": "TWIST1"
+                },
+                {
+                    "gene_id": "7535",
+                    "gene_name": "zeta chain of T cell receptor associated protein kinase 70",
+                    "gene_symbol": "ZAP70"
+                },
+                {
+                    "gene_id": "8454",
+                    "gene_name": "cullin 1",
+                    "gene_symbol": "CUL1"
+                },
+                {
+                    "gene_id": "891",
+                    "gene_name": "cyclin B1",
+                    "gene_symbol": "CCNB1"
+                },
+                {
+                    "gene_id": "9978",
+                    "gene_name": "ring-box 1",
+                    "gene_symbol": "RBX1"
+                }
+            ],
+            "unique_genes": [
+                "MECP2",
+                "CUL1",
+                "ZAP70",
+                "PTPN6",
+                "AGO4",
+                "IRF4",
+                "MAPK1",
+                "BCL2A1",
+                "MOV10",
+                "TNRC6C",
+                "CEBPB",
+                "AGO1",
+                "SKP1",
+                "STAT3",
+                "AGO2",
+                "RB1",
+                "FOXM1",
+                "RBX1",
+                "CCNB1",
+                "JUNB",
+                "MAPK3",
+                "AGO3",
+                "TWIST1",
+                "NPM1",
+                "GZMB",
+                "ICOS",
+                "STAT5A",
+                "ZC3HC1",
+                "PRF1",
+                "RPS6",
+                "HDAC1",
+                "IL10RA",
+                "DNMT1"
+            ]
+        }
+    }
+}

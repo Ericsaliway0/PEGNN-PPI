@@ -1,0 +1,8 @@
+Epoch 23 - Max F1 Train: 0.01532567049808429, Max F1 Valid: 0.0
+Best Validation Loss: 0.00012016740947728977
+Best F1 Score: 0.01532567049808429
+Best Val Score: 0.0
+Silhouette Score: 0.9157325029373169
+Silhouette Score_ini: 0.9197468757629395
+Davies-Bouldin Index: 0.38511626618561107
+Davies-Bouldin Index_ini: 0.321874103572011

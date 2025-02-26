@@ -1,0 +1,6 @@
+Epoch 108 - Max F1 Train: 0.9927360774818402, Max F1 Valid: 1.0
+Best Train Loss: 0.008758173324167728
+Best Validation Loss: 0.008758173324167728
+Best F1 Score: 0.9927360774818402
+Silhouette Score: 0.5096287131309509
+Davies-Bouldin Index: 0.6465691051842795
