@@ -6,7 +6,7 @@ submitted to the IEEE International Conference on Bioinformatics & Biomedicine (
 which will be held in Wuhan, China, on December 15-18, 2025.
 
 You can learn more about the conference here:
-➡ IEEE BIBM 2025
+[➡ IEEE BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 
 ![Alt text](images/__overview_framework.png)
 
