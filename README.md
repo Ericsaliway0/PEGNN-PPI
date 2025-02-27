@@ -14,7 +14,7 @@ which will be held in Wuhan, China, on December 15-18, 2025.
 
 The dataset is obtained from the following sources:
 
-- **[STRING database](https://string-db.org/cgi/download?sessionId=b7WYyccF6G1p)**  
+- **[STRING](https://string-db.org/cgi/download?sessionId=b7WYyccF6G1p)**  
 - **[SHS27k](https://pubmed.ncbi.nlm.nih.gov/31510705/)**  
 - **[SHS148k](https://pubmed.ncbi.nlm.nih.gov/31510705/)** 
 
