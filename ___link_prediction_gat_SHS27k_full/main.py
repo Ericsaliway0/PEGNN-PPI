@@ -39,10 +39,10 @@ if __name__ == "__main__":
     ## interaction_types = ["ptmod", "catalysis", "ptmod", "reaction", "inhibition", "activation", "expression"]
     ##interaction_types = ["reaction"]
 
-    ##graph_data_path = f'gat/data/protein.actions.SHS27k/protein.actions.SHS27k_full.json'
-    graph_data_path = f'gat/data/protein.actions.SHS27k/protein.actions.SHS27k_expression.json'
-    ##graph_data_path = f'gat/data/protein.actions.SHS148k/protein.actions.SHS148k_950.json'
-    ##graph_data_path = f'gat/data/protein.actions.v10.5/9606_v10.5_950_ptmod.json'
+    ##graph_data_path = f'protein.actions.SHS27k/protein.actions.SHS27k_full.json'
+    graph_data_path = f'protein.actions.SHS27k/protein.actions.SHS27k_expression.json'
+    ##graph_data_path = f'protein.actions.SHS148k/protein.actions.SHS148k_950.json'
+    ##graph_data_path = f'protein.actions.v10.5/9606_v10.5_950_ptmod.json'
     G_dgl, node_features, node_id_to_name = load_graph_data(graph_data_path, args.out_feats)
 
     # Move data to the GPU
