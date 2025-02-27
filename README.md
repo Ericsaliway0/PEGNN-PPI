@@ -22,24 +22,18 @@ These databases provide curated and integrated protein-protein interaction (PPI)
 
 ## Setup and Get Started
 
-1. Install the required dependencies:
-   - `pip install -r requirements.txt`
+1. Create Conda environment:
+   - `conda create --name gnn python=3.11.3`
 
-2. Activate your Conda environment:
+2. Activate the Conda environment:
    - `conda activate gnn`
 
 3. Install PyTorch:
    - `conda install pytorch torchvision torchaudio -c pytorch`
 
-4. Install the necessary Python packages:
-   - `pip install pandas`
-   - `pip install py2neo pandas matplotlib scikit-learn`
-   - `pip install tqdm`
-   - `pip install seaborn`
-
-5. Install DGL:
+4. Install DGL:
    - `conda install -c dglteam dgl`
 
-6. To train the model, run the following command:
+5. To train the model, run the following command:
    - `python ___link_prediction_gat_SHS27k_full/main.py --in-feats 256 --out-feats 128 --num-heads 2 --num-layers 2 --lr 0.001 --input-size 512 --hidden-size 16 --sampling_method random_neither_visible --model_type GAT --epochs 501`
 
