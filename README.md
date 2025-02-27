@@ -5,8 +5,7 @@ This repository contains the code for our paper,
 submitted to the IEEE International Conference on Bioinformatics & Biomedicine (BIBM) 2025,
 which will be held in Wuhan, China, on December 15-18, 2025.
 
-You can learn more about the conference here:
-[➡ IEEE BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+[IEEE BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 
 ![Alt text](images/__overview_framework.png)
 
@@ -41,9 +40,6 @@ These databases provide curated and integrated protein-protein interaction (PPI)
 5. Install DGL:
    - `conda install -c dglteam dgl`
 
-6. Download the data from the built gene association graph using the link below and place it in the `data/multiomics_meth/` directory before training:
-   - [Download Gene Association Data](https://drive.google.com/file/d/1l7mbTn2Nxsbc7LLLJzsT8y02scD23aWo/view?usp=sharing)
-
-7. To train the model, run the following command:
+6. To train the model, run the following command:
    - `python ___link_prediction_gat_SHS27k_full/main.py --in-feats 256 --out-feats 128 --num-heads 2 --num-layers 2 --lr 0.001 --input-size 512 --hidden-size 16 --sampling_method random_neither_visible --model_type GAT --epochs 501`
 
