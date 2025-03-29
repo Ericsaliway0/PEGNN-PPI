@@ -1,13 +1,15 @@
-## Embedding-based protein-protein interaction prediction using graph neural networks
+## Learning Protein-Protein Interaction Networks with Graph Neural Networks and Pretrained Embeddings
 
 This repository contains the code for our paper,
-"Embedding-based protein-protein interaction prediction using graph neural networks,"
-submitted to the IEEE International Conference on Bioinformatics & Biomedicine (BIBM) 2025,
-which will be held in Wuhan, China, on December 15-18, 2025.
+"Learning Protein-Protein Interaction Networks with Graph Neural Networks and Pretrained Embeddings,"
+submitted to the **13th International Conference on Intelligent Biology and Medicine (ICIBM 2025)**,  
+which will take place **August 10-12, 2025, in Columbus, OH, USA**.  
 
-[IEEE BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+You can learn more about the conference here:  
+[ICIBM 2025](https://icibm2025.iaibm.org/)
 
 ![Alt text](images/__overview_framework.png)
+
 
 
 ## Data Source
