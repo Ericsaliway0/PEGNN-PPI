@@ -1,0 +1,37 @@
+[
+    {
+        "fold": 1,
+        "best_epoch_train": 0,
+        "lowest_train_loss": 0.04402277618646622,
+        "best_epoch": 0,
+        "lowest_val_loss": 1.9171732422970573e+17
+    },
+    {
+        "fold": 2,
+        "best_epoch_train": 0,
+        "lowest_train_loss": 0.0448535792529583,
+        "best_epoch": 0,
+        "lowest_val_loss": 1.4975190315512627e+17
+    },
+    {
+        "fold": 3,
+        "best_epoch_train": 0,
+        "lowest_train_loss": 0.044876836240291595,
+        "best_epoch": 0,
+        "lowest_val_loss": 1.8374995373719552e+17
+    },
+    {
+        "fold": 4,
+        "best_epoch_train": 0,
+        "lowest_train_loss": 0.04787982255220413,
+        "best_epoch": 0,
+        "lowest_val_loss": 9.705297226078618e+16
+    },
+    {
+        "fold": 5,
+        "best_epoch_train": 0,
+        "lowest_train_loss": 0.04638710618019104,
+        "best_epoch": 0,
+        "lowest_val_loss": 4.459857532944384e+16
+    }
+]

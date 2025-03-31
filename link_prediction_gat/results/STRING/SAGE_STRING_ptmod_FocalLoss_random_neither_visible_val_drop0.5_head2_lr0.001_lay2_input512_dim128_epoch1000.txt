@@ -1,0 +1,6 @@
+Fold 1:
+Val AUC: 0.5549 ± 0.0203 | Val F1: 0.6888 ± 0.0117 | Val FocalLoss: 0.3306 ± 0.0101 | Val Accuracy: 0.5547 ± 0.0210 | Val Precision: 0.5294 ± 0.0111 | Val Recall: 0.9854 ± 0.0128 | Val Hits@10: 0.1000 | Val MAP: 0.3411 ± 0.0117
+
+Fold 2:
+Val AUC: 0.5398 ± 0.0501 | Val F1: 0.6991 ± 0.0112 | Val FocalLoss: 0.2527 ± 0.0072 | Val Accuracy: 0.5712 ± 0.0210 | Val Precision: 0.5385 ± 0.0123 | Val Recall: 0.9964 ± 0.0055 | Val Hits@10: 0.7000 | Val MAP: 0.5162 ± 0.0376
+

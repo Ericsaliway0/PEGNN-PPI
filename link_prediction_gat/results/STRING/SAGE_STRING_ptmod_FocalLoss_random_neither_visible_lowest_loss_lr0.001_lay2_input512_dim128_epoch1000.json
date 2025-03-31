@@ -1,0 +1,16 @@
+[
+    {
+        "fold": 1,
+        "best_epoch_train": 999,
+        "lowest_train_loss": 0.0023638317361474037,
+        "best_epoch": 104,
+        "lowest_val_loss": 0.038895465433597565
+    },
+    {
+        "fold": 2,
+        "best_epoch_train": 999,
+        "lowest_train_loss": 0.00882171280682087,
+        "best_epoch": 197,
+        "lowest_val_loss": 0.03943583741784096
+    }
+]
